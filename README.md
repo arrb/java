@@ -1,2 +1,2 @@
 # java
-easy programs
+Followed different tutorials and added some extra functionalities. 
